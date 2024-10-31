@@ -9,4 +9,4 @@ project-group_5 created by GitHub Classroom
 |Xiaowei Gu| A |218419184 | frangu@my.yorku.ca  |email | 4785Frances | 
 |Yuxin Song| A | | @my.yorku.ca  | | yuxin | 
 
-**Discord Chat/Server Invite :** https://discord.gg/KKK8cWx4
+**Discord Chat/Server Invite :** https://discord.gg/GekH2M3sBX
