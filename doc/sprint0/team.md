@@ -4,7 +4,7 @@ project-group_5 created by GitHub Classroom
 | Full Name |Section | Student ID | Email | Best Way to Contact | Discord Username
 |-----------|--------|------------|-------|---------------------|------------------
 |Arthi Sathian | A | | arthisat@my.yorku.ca  | | poochi | 
-|Colin Le Donne| A | | @my.yorku.ca  | | asperham | 
+|Colin Le Donne| E | 215037955 | asperham@my.yorku.ca  | | email | asperham | 
 |Thuy Nguyen| A |219914175 | thuyng12@my.yorku.ca  |email | TN | 
 |Xiaowei Gu| A |218419184 | frangu@my.yorku.ca  |email | 4785Frances | 
 |Yuxin Song| A |219764612 | yuxins09@my.yorku.ca  |email | yuxin | 
