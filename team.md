@@ -8,3 +8,5 @@ project-group_5 created by GitHub Classroom
 |Thuy Nguyen| A | | thuyng12@my.yorku.ca  | | TN | 
 |Xiaowei Gu| A |218419184 | frangu@my.yorku.ca  |email | 4785Frances | 
 |Yuxin Song| A | | @my.yorku.ca  | | yuxin | 
+
+**Discord Chat/Server Invite :** https://discord.gg/KKK8cWx4
