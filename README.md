@@ -4,7 +4,7 @@ An e-commerce platform that vends a specialised selection of personalised produc
 
 ## Installation
 
-Use the prebuilt installer for \[Node.js\] ([https://nodejs.org/en/download/prebuilt-installer](https://nodejs.org/en/download/prebuilt-installer)) or visit their site to choose another installation method.
+Use the prebuilt installer for ([Node.js](https://nodejs.org/en/download/prebuilt-installer)) or visit their site to choose another installation method.
 
 To check if the installation was completed correctly, open your command line tool and type `node -v`
 
