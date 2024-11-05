@@ -4,11 +4,11 @@ An e-commerce platform that vends a specialised selection of personalised produc
 
 ## Installation
 
-Use the prebuilt installer for ([Node.js](https://nodejs.org/en/download/prebuilt-installer)) or visit their site to choose another installation method.
+Use the prebuilt installer for [Node.js](https://nodejs.org/en/download/prebuilt-installer) or visit their site to choose another installation method.
 
 To check if the installation was completed correctly, open your command line tool and type `node -v`
 
-Since we’re using React, we also want to ensure NPM was installed correctly. Type the following command into your command line tool: `npm -v`
+Since we’re using React, we also want to ensure NPM was installed correctly. Type into your command line tool: `npm -v`
 
 Both commands should print the program’s respective version numbers.
 
