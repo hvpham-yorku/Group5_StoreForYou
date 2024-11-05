@@ -1,6 +1,6 @@
 # StoreForYou
 
-An e-commerce platform that vends a specialised selection of personalised products implemented by Node.js and React. The site aims to make product personalisation user-friendly while maintaining quality.
+An e-commerce platform that vends a specialised selection of personalised products, implemented by Node.js and React. Compared to its competitors, this site will have fewer product options (avoid overwhelming the customer with choices and maintain the quality of products). On the other hand, its personalisation capabilities will be greater, more versatile, and user-friendly.
 
 ## Installation
 
@@ -10,18 +10,18 @@ To check if the installation was completed correctly, open your command line too
 
 Since we’re using React, we also want to ensure NPM was installed correctly. Type into your command line tool: `npm -v`
 
-Both commands should print the program’s respective version numbers.
+Both commands should print the program’s respective version numbers. Further setup for the remainder of the project is detailed in the Setup file.
 
 ## Key Features
 
-\*Shop Owner\*
+**Shop Owner**
 
 * Automatic inventory tracking  
 * Low stock alerts  
 * Manual addition of products  
 * A view of consolidated information about all orders
 
-\*Shopper\*
+**Shopper**
 
 * Ability to save card and account info  
 * Guest check-out  
@@ -42,4 +42,4 @@ All team members are encouraged to contribute through the following process:
 
 ## License
 
-\[MIT\]([https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/))  
+[MIT](https://choosealicense.com/licenses/mit/)
