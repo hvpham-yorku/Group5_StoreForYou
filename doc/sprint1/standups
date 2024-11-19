@@ -1,13 +1,13 @@
-**2024-11-15 - Sprint 1 Standup 1**
+2024-11-15 - Sprint 1 Standup 1
 1. What did you work on since the last standup?
-Arthi Sathian:
-Colin Le Donne:
-Thuy Nguyen:
-Xiaowei Gu:
-Yuxin Song:
+Arthi Sathian: Spike on database options
+Colin Le Donne: Spike on user login feature
+Thuy Nguyen: Spike on adding searching function
+Xiaowei Gu: Drafted system design doc; Added RPM.md and sprint1.md
+Yuxin Song: Learn React and spike on creating a homepage
 
 2. What do you commit to next?
-Arthi Sathian:
+Arthi Sathian: 
 Colin Le Donne:
 Thuy Nguyen:
 Xiaowei Gu:
@@ -17,14 +17,14 @@ Yuxin Song:
 Arthi Sathian:
 Colin Le Donne:
 Thuy Nguyen:
-Xiaowei Gu:
+Xiaowei Gu: 
 Yuxin Song:
 
 4. Do you have any blockers?
 Arthi Sathian:
 Colin Le Donne:
 Thuy Nguyen:
-Xiaowei Gu:
+Xiaowei Gu: N/A
 Yuxin Song:
 
 
@@ -33,8 +33,8 @@ Yuxin Song:
 Arthi Sathian:
 Colin Le Donne:
 Thuy Nguyen:
-Xiaowei Gu:
-Yuxin Song:
+Xiaowei Gu: Added architecture diagram and finished system design doc  
+Yuxin Song: 
 
 2. What do you commit to next?
 Arthi Sathian:
