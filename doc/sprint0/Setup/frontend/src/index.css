@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#search_bar {
+  text-align: center;
+}
+input, ul{
+  width: 40%;
+  margin: 0 auto;
+}
+ul {
+  padding: 0;
+  background-color: #D3D3D3;
+  list-style: none;
+}
+.result {
+  text-align: left;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.result:hover {
+  background-color: #A9A9A9;
+}
+#foundProduct {
+  text-align: left;
+  margin: 0 auto;
+  max-width: 40%;
+}
+

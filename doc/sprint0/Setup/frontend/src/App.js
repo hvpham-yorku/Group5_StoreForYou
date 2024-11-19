@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
+import Search from './Search';
 
 function App() {
   const [message, setMessage] = useState('');
@@ -18,6 +19,7 @@ function App() {
       <h1>E-commerce Platform</h1>
       <button onClick={fetchMessage}>Test Backend Connection</button>
       <p>{message}</p>
+      <Search />
     </div>
   );
 }
