@@ -7,8 +7,10 @@ An e-commerce platform that vends a specialised selection of personalised produc
 ## Installations
 
 Use the prebuilt installer for [Node.js](https://nodejs.org/en/download/prebuilt-installer) or visit their site to choose another installation method.
+
 To check if the installation was completed correctly, open your command line tool and type `node -v`
-Since we’re using React, we want to ensure NPM was installed correctly. Type into your command line tool: `npm -v`
+
+Since we’re using React, we want to ensure NPM was installed correctly; Type into your command line tool: `npm -v`
 
 ## Setting up MongoDB
 
@@ -20,16 +22,18 @@ Since we’re using React, we want to ensure NPM was installed correctly. Type i
 ## Running the Application
 
 1) Ensure you have [Git](https://git-scm.com/) installed and working on your desktop
-2) Open a Command Prompt terminal and copy the repository URL. Clone it to your environment using `git clone _repoURL_`
+2) Open a Command Prompt terminal and copy the repository URL. Clone it to your environment using `git clone repoURL`
 3) Open the folder in your File Explorer and open the .env for editing (pathway should look something like Group5_StoreForYou\doc\sprint0\Setup\backend). Point the `MONGO_URI` variable to the connection string you copied and saved earlier -> `MONGO_URI`=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@cluster0.sbuzm.mongodb.net/YOUR_DATABASE_NAME?retryWrites=true&w=majority
 4) In your command terminal, navigate to the backend folder and run the following commands:
 
-`npm install` _Installs necessary dependencies_
-`npm start` _Connects to the database_
+`npm install`  _(Installs necessary dependencies)_
+
+`npm start`    _(Connects to the database)_
 
 6) In a new terminal, navigate to the frontend folder and run the following commands:
 
 `npm install`
+
 `npm start`
 
 8) A window should have automatically opened to the React App. If not, you can open the frontend at `http://localhost:3000`. You can interact with and test the features on this page, while the backend APIs interact with the MongoDB database
