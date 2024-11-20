@@ -23,7 +23,7 @@ Since we’re using React, we want to ensure NPM was installed correctly; Type i
 
 1) Ensure you have [Git](https://git-scm.com/) installed and working on your desktop
 2) Open a Command Prompt terminal and copy the repository URL. Clone it to your environment using `git clone repoURL`
-3) Open the folder in your File Explorer and open the .env for editing (pathway should look something like Group5_StoreForYou\doc\sprint0\Setup\backend). Point the `MONGO_URI` variable to the connection string you copied and saved earlier -> `MONGO_URI`=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@cluster0.sbuzm.mongodb.net/YOUR_DATABASE_NAME?retryWrites=true&w=majority
+3) Open the folder in your File Explorer and open the .env for editing (pathway should look something like Group5_StoreForYou\doc\sprint0\Setup\backend). Point the `MONGO_URI` variable to the connection string you copied and saved earlier -> `MONGO_URI=mongodb+srv://YOUR_USERNAME:PASSWORD@cluster0.sbuzm.mongodb.net/YOUR_DATABASE_NAME?retryWrites=true&w=majority`
 4) In your command terminal, navigate to the backend folder and run the following commands:
 
 `npm install`  _(Installs necessary dependencies)_
