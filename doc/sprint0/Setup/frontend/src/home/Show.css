@@ -1,0 +1,25 @@
+.window {
+    display:grid;  
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    font-size: 100px;
+    color:rgb(251, 251, 251);
+    background-color: gray;
+    height: 300px;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  
+}
+.picktext {
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    margin-top: 10px;
+    height:50px;
+    margin-bottom: 10px;
+    font-weight:800;
+    padding-left: 10%;
+}
+
+
+

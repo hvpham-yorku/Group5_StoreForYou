@@ -1,0 +1,32 @@
+
+
+.Search {
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    text-decoration:black, dotted;
+    font-size: 270%;
+    
+
+}
+
+.input {
+   width: 30%;
+   height: 30px;
+   border-radius: 10px;
+   background-color:rgb(251, 251, 251);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: medium;
+   font-weight: 600;
+   margin-left: 35%;
+   margin-right: 35%;
+ 
+}
+
+.links{
+    text-align: center;
+    height: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
