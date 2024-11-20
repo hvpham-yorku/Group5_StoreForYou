@@ -1,4 +1,5 @@
 2024-11-15 - Sprint 1 Standup 1
+-----------------------------------------------
 1. What did you work on since the last standup?
 Arthi Sathian: Spike on database options
 Colin Le Donne: Spike on user login feature
@@ -7,58 +8,60 @@ Xiaowei Gu: Drafted system design doc; Added RPM.md and sprint1.md
 Yuxin Song: Learn React and spike on creating a homepage
 
 2. What do you commit to next?
-Arthi Sathian: 
-Colin Le Donne:
-Thuy Nguyen:
-Xiaowei Gu:
-Yuxin Song:
+Arthi Sathian: Research implementation details and finalize database choice. Start setting up the database environment.
+Colin Le Donne: Begin developing the user login feature and integrate basic authentication functionality.
+Thuy Nguyen: Start implementing the search function using the results from the spike.
+Xiaowei Gu:Review system design doc with the team and start refining system components.
+Yuxin Song: Create the homepage layout in React and set up basic routing for the application.
 
 3. When do you think you'll be done?
-Arthi Sathian:
-Colin Le Donne:
-Thuy Nguyen:
-Xiaowei Gu: 
-Yuxin Song:
+Arthi Sathian:By the next standup.
+Colin Le Donne:By the end of Sprint 1, with progress updates at the next standup.
+Thuy Nguyen:Initial implementation by the next standup; refinements may take longer.
+Xiaowei Gu: By the next standup, pending team feedback.
+Yuxin Song: Homepage prototype ready by the next standup.
 
 4. Do you have any blockers?
-Arthi Sathian:
-Colin Le Donne:
-Thuy Nguyen:
-Xiaowei Gu: N/A
-Yuxin Song:
+Arthi Sathian: NA
+Colin Le Donne: NA
+Thuy Nguyen: NA
+Xiaowei Gu: NA
+Yuxin Song: Limited understanding of advanced React components; may need help if issues arise.
 
 
 2024-11-18 - Sprint 1 Standup 2
+--------------------------------
 1. What did you work on since the last standup?
-Arthi Sathian:
-Colin Le Donne:
-Thuy Nguyen:
-Xiaowei Gu: Added architecture diagram and finished system design doc  
-Yuxin Song: 
+Arthi Sathian: Help with pull request review and system design refinement.
+Colin Le Donne: Developed a basic login form and integrated it with user authentication logic.
+Thuy Nguyen: Implemented a basic search function; currently working on optimizing query results.
+Xiaowei Gu: Added architecture diagram, prioritized user stories and broke down tasks for sprint 1 items
+Yuxin Song: Created homepage layout in React and implemented basic navigation between pages.
 
 2. What do you commit to next?
-Arthi Sathian:
-Colin Le Donne:
-Thuy Nguyen:
-Xiaowei Gu:
-Yuxin Song:
+Arthi Sathian: Help with documentations 
+Colin Le Donne: Add some encryption to the login
+Thuy Nguyen: Help with PR review
+Xiaowei Gu: Adjust wireframes and update any related stories and docs
+Yuxin Song:Refine homepage design and add dynamic data using React state management.
 
 3. When do you think you'll be done?
-Arthi Sathian:
-Colin Le Donne:
-Thuy Nguyen:
-Xiaowei Gu:
-Yuxin Song:
+Arthi Sathian: By the next standup 
+Colin Le Donne: By the next standup 
+Thuy Nguyen: By the next standup 
+Xiaowei Gu: By the next standup 
+Yuxin Song: By the next standup 
 
 4. Do you have any blockers?
-Arthi Sathian:
-Colin Le Donne:
-Thuy Nguyen:
-Xiaowei Gu:
-Yuxin Song:
+Arthi Sathian: NA
+Colin Le Donne: NA
+Thuy Nguyen: NA
+Xiaowei Gu: NA
+Yuxin Song: NA
 
 
 2024-11-20 - Sprint 1 Standup 3
+-------------------------------
 1. What did you work on since the last standup?
 Arthi Sathian:
 Colin Le Donne:
