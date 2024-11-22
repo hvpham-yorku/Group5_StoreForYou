@@ -46,14 +46,14 @@ StoreForYou is an e-commerce platform designed to offer a specialized selection 
      ```
 
 3. **Start the Backend**
-   - Navigate to the `backend` folder and run:
+   - Navigate to the `backend` folder (doc/sprint0/Setup/backend) and run:
      ```bash
      npm install
      npm start
      ```
 
 4. **Start the Frontend**
-   - Open a new terminal, navigate to the `frontend` folder, and run:
+   - Open a new terminal, navigate to the `frontend` folder (doc/sprint0/Setup/frontend), and run:
      ```bash
      npm install
      npm start
