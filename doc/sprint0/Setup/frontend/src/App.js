@@ -4,7 +4,11 @@ import axios from 'axios';
 
 import { AuthProvider } from './context/AuthContext';
 import Login from './components/Login';
-
+import ProductInfo from './home/ProductInfo';
+import Search from './home/Search';
+import Show from './home/Show';
+import Menu from './home/Menu';
+import './App.css';
 
 function App() {
   const [message, setMessage] = useState('');
@@ -22,9 +26,18 @@ function App() {
   <AuthProvider>
 		<div className="App">
 		<h1>E-commerce Platform</h1>
+		
+		
 			<button onClick={fetchMessage}>Test Backend Connection</button>
 			<p>{message}</p>
+			
 			<Login />
+			<body>
+				<Search/>
+				<Show/>
+				<ProductInfo/>
+			</body>
+			<footer className = "bar">  <Menu /> </footer>
 		</div>
 	</AuthProvider>
   );
