@@ -5,7 +5,7 @@ import axios from 'axios';
 import { AuthProvider } from './context/AuthContext';
 import Login from './components/Login';
 import ProductInfo from './home/ProductInfo';
-import Search from './home/Search';
+import Search from './Search.js';
 import Show from './home/Show';
 import Menu from './home/Menu';
 import './App.css';

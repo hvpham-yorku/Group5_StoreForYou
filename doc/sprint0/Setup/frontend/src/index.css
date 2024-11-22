@@ -13,6 +13,8 @@ code {
 }
 #search_bar {
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 input, ul{
   width: 40%;
