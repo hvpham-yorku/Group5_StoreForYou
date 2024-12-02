@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-
 import { AuthProvider } from './context/AuthContext';
 import Login from './components/Login';
 import ProductInfo from './home/ProductInfo';
 import Search from './Search.js';
 import Show from './home/Show';
 import Menu from './home/Menu';
+import AddItems from './AddItems.js';
 import './App.css';
 
 function App() {
@@ -27,16 +27,14 @@ function App() {
 		<div className="App">
 		<h1>E-commerce Platform</h1>
 		
-		
 			<button onClick={fetchMessage}>Test Backend Connection</button>
 			<p>{message}</p>
 			
 			<Login />
-			<body>
-				<Search/>
-				<Show/>
-				<ProductInfo/>
-			</body>
+			<AddItems/>
+			<Search/>
+			<Show/>
+			<ProductInfo/>
 			<footer className = "bar">  <Menu /> </footer>
 		</div>
 	</AuthProvider>

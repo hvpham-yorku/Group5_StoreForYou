@@ -88,15 +88,12 @@ const Search = () => {
 
     return (
         <div id='search_bar'>
-            { !added && <button onClick={() => clickAdded()}>Add products for search testing</button>  }
-            { added && 
-                <input
+            <input
                 type="text"
                 value={searchItem}
                 onChange={(e) => setSearchItem(e.target.value)}
                 placeholder='What are you looking for?'
-                />
-            }
+            />
             {!loading && searchItem &&searchResults.length === 0 && <ul><li>No results found</li></ul>}
             <ul>
                 {searchResults.map((product, id) => (
