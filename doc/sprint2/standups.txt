@@ -1,0 +1,91 @@
+2024-11-25 - Sprint 2 Standup 1
+-----------------------------------------------
+1. What did you work on since the last standup?
+Arthi Sathian: Organized the meeting minutes of last Sprint Retrospective
+Colin Le Donne: Spike to explore options for handling user data during account creation
+Thuy Nguyen: Spike on the backend of adding items for shop owners manually
+Xiaowei Gu: Prepared demo; Priorized sprin 2 user stories
+Yuxin Song: Spike on the frontend of adding items for shop owners manually  
+
+2. What do you commit to next?
+Arthi Sathian: Finish up and upload the Sprint Retrospective meeting notes; Looking into Burndown Chart and Schedule 
+Colin Le Donne: Break down account creation tasks
+Thuy Nguyen: Break down backend tasks for adding items for shop owners manually
+Xiaowei Gu: Organize Sprint 2 planning meeting notes; prepare any updates for system design, product backlog etc.
+Yuxin Song: Break down backend tasks for adding items for shop owners manually
+
+3. When do you think you'll be done?
+Arthi Sathian: By next standup
+Colin Le Donne: By next standup 
+Thuy Nguyen: By next standup 
+Xiaowei Gu: By next standup 
+Yuxin Song: By next standup 
+
+4. Do you have any blockers?
+Arthi Sathian: NA
+Colin Le Donne: NA
+Thuy Nguyen: NA
+Xiaowei Gu: NA
+Yuxin Song: NA
+
+
+2024-11-28 - Sprint 2 Standup 2
+--------------------------------
+1. What did you work on since the last standup?
+Arthi Sathian: Completed the SR1.md with the team; Spike on Jira
+Colin Le Donne: Started setting up account creation tasks in the system
+Thuy Nguyen: Broke down backend tasks for manually adding items; began drafting API specifications
+Xiaowei Gu: Uploaded Sprint 2 planning meeting notes; updated the product backlog and system design diagrams.
+Yuxin Song: Worked on a prototype for the frontend of adding items for shop owners manually 
+
+2. What do you commit to next?
+Arthi Sathian: Create initial Burndown Chart; continue exploring Jira.
+Colin Le Donne: Finalize setup for account creation workflows; draft task dependencies.
+Thuy Nguyen: Collaborate with Yuxin to align backend and frontend tasks; finalize API specs.
+Xiaowei Gu: Help with PR and other doc reviews
+Yuxin Song: Continue refining the UI prototype; align with backend API functionality.
+
+3. When do you think you'll be done?
+Arthi Sathian: By next standup 
+Colin Le Donne: By next standup 
+Thuy Nguyen: By next standup 
+Xiaowei Gu: By next standup 
+Yuxin Song: By next standup 
+
+4. Do you have any blockers?
+Arthi Sathian: NA
+Colin Le Donne: NA
+Thuy Nguyen: NA
+Xiaowei Gu: NA
+Yuxin Song: NA
+
+
+2024-12-02 - Sprint 2 Standup 3
+-------------------------------
+1. What did you work on since the last standup?
+Arthi Sathian: Drafted and shared the Burndown Chart; explored Jira features for task tracking.
+Colin Le Donne: Finalized the implementation of account creation
+Thuy Nguyen: Finalized APIs for adding items manually 
+Xiaowei Gu: Reviewed meeting notes and started demo preparation
+Yuxin Song: Finalized UI prototype for manually adding items;
+
+2. What do you commit to next?
+Arthi Sathian: Upload both Burndown Chart and Schedule 
+Colin Le Donne: Create PRs for account creation
+Thuy Nguyen: Create PRs for account creation
+Xiaowei Gu: Test and prepare Sprint 2 demo
+Yuxin Song: Fix any issues 
+
+3. When do you think you'll be done?
+Arthi Sathian: By Dec 3
+Colin Le Donne: By Dec 3
+Thuy Nguyen: By Dec 3
+Xiaowei Gu:  By Dec 3
+Yuxin Song: By Dec 3
+
+4. Do you have any blockers?
+Arthi Sathian: NA
+Colin Le Donne: NA
+Thuy Nguyen: NA
+Xiaowei Gu: NA
+Yuxin Song: NA
