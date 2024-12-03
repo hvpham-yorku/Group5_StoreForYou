@@ -8,6 +8,7 @@ import Search from './Search.js';
 import Show from './home/Show';
 import Menu from './home/Menu';
 import AddItems from './AddItems.js';
+import Register from './components/Register';
 import './App.css';
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
 			<p>{message}</p>
 			
 			<Login />
+			<Register/>
 			<AddItems/>
 			<Search/>
 			<Show/>
