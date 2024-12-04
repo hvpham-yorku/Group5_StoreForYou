@@ -68,18 +68,21 @@ StoreForYou is an e-commerce platform designed to offer a specialized selection 
 ## Key Features
 
 ### **For Shop Owners**
+- [Done]Manual addition of products.
 - Automatic inventory tracking.
 - Low-stock alerts.
-- Manual addition of products.
 - Consolidated view of all orders.
 
 ### **For Shoppers**
-- Save card and account information.
+- [Done]Browse products on home page without logging in. 
+- [Done]Log in to access additional features.
+- [Done]Search bar with advanced filtering.
+- [Done]Create account and save account info.
+- Save cart. 
 - Guest checkout.
 - Wishlist functionality.
 - Alerts for products, sales, and order status.
 - Product reviews.
-- Search bar with advanced filtering.
 
 ---
 
